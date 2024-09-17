@@ -1,0 +1,40 @@
+[33mcommit 9a73d3abf0dcd1ea130ff9779268efc1369ddefe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ygor-dev0 <ygorsilva.00@hotmail.com>
+Date:   Tue Sep 17 09:49:04 2024 -0400
+
+    Revert "inclusão de changelog.ms"
+    
+    This reverts commit 0dff2549184fd33a48add8a1c7c5c021aebc11c4.
+
+ chancelog.md | 12 [31m------------[m
+ 1 file changed, 12 deletions(-)
+
+[33mcommit 0dff2549184fd33a48add8a1c7c5c021aebc11c4[m
+Author: ygor-dev0 <ygorsilva.00@hotmail.com>
+Date:   Sun Sep 15 19:57:47 2024 -0400
+
+    inclusão de changelog.ms
+
+ chancelog.md | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
+
+[33mcommit b61e609dda22970336d3959d34af698919f39c9f[m
+Author: ygor-dev0 <ygorsilva.00@hotmail.com>
+Date:   Sun Sep 15 19:49:49 2024 -0400
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m24[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit c38248fac4e9bfe0d081f198a1b3a735f2f1e992[m
+Author: ygor-dev0 <ygorsilva.00@hotmail.com>
+Date:   Sun Sep 15 19:46:08 2024 -0400
+
+    inclusão de novos arquivos
+    
+    inclusão de arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m26[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m24[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
